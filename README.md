@@ -1,6 +1,8 @@
 # sinopia-dockerfile
 sinopia部署简易私有化的npm包管理
 
+**sinopia已停止维护，改用[nilorg-verdaccio](https://github.com/nilorg/verdaccio-dockerfile)**
+
 ## Docker 使用
 
 ```bash
